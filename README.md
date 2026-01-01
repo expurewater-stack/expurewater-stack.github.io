@@ -6,6 +6,16 @@ Phosphate levels are critical to this balance, and **ZeroFour** is a cutting-edg
 
 ---
 
+## Results You Can See
+
+| Before | After |
+|-------|-------|
+| ![Before treatment](beforezerofour.jpg) | ![After treatment](afterzerofour.jpg) |
+
+<sub>Example aquarium shown after ZeroFour phosphate treatment.</sub>
+
+---
+
 ## How ZeroFour Works
 
 **ZeroFour** works by selectively binding and removing excess phosphates — a major contributor to unwanted algae growth and compromised coral health.
