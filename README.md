@@ -1,4 +1,4 @@
-# Next-Generation Phosphorous Treatment  
+# Next-Generation Phosphate Treatment  
 ## For Salt and Freshwater Aquariums
 
 Maintaining a healthy saltwater aquarium requires precise control over water chemistry.  
