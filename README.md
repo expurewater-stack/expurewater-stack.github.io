@@ -17,10 +17,10 @@ Phosphate levels are critical to this balance, and **ZeroFour** is a cutting-edg
 </tr>
 <tr>
 <td>
-<img src="beforezerofour.jpg" width="250">
+<img src="beforezerofour.jpg" width="150">
 </td>
 <td>
-<img src="afterzerofour.jpg" width="250">
+<img src="afterzerofour.jpg" width="150">
 </td>
 </tr>
 </table>
