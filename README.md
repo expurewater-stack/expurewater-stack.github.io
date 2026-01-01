@@ -16,7 +16,7 @@ Phosphate levels are critical to this balance, and **ZeroFour** is a cutting-edg
 |:---------:|
 | ![After treatment](afterzerofour.jpg) |
 
-<sub>Example aquarium shown after ZeroFour phosphate treatment.</sub>
+<sub>Example aquarium shown after reduction in phosphate due to treatment with ZeroFour.</sub>
 
 
 ---
