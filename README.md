@@ -10,11 +10,11 @@ Phosphate levels are critical to this balance, and **ZeroFour** is a cutting-edg
 
 | **Before** |
 |:----------:|
-| ![Before treatment](images/before.jpg) |
+| ![Before treatment](beforezerofour.jpg) |
 
 | **After** |
 |:---------:|
-| ![After treatment](images/after.jpg) |
+| ![After treatment](afterzerofour.jpg) |
 
 <sub>Example aquarium shown after ZeroFour phosphate treatment.</sub>
 
