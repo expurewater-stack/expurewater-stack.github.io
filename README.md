@@ -8,11 +8,11 @@ Phosphate levels are critical to this balance, and **ZeroFour** is a cutting-edg
 
 ## Results You Can See
 
-| **Before** |
+| **Before (0.63 ppm)** |
 |:----------:|
 | ![Before treatment](beforezerofour.jpg) |
 
-| **After** |
+| **After (0.18 ppm)** |
 |:---------:|
 | ![After treatment](afterzerofour.jpg) |
 
