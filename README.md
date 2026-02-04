@@ -1,9 +1,7 @@
-# Next-Generation Phosphate Treatment  
-## For Salt and Freshwater Aquariums
-
+# Next-Generation Phosphate Treatment 
 🔗 **Documentation & Safety**
  [Safety Data Sheet (SDS)](FILE_ExPure_SDS_NanoFe3O4_Al2O3.pdf)
-
+## For Salt and Freshwater Aquariums
 Maintaining a healthy saltwater aquarium requires precise control over water chemistry.  
 Phosphate levels are critical to this balance, and **ZeroFour** is a cutting-edge solution designed specifically to reduce and stabilize phosphate concentrations efficiently and safely.
 
