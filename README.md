@@ -6,9 +6,10 @@ Maintaining a healthy saltwater aquarium requires precise control over water che
 Phosphate levels are critical to this balance, and **ZeroFour** is a cutting-edge solution designed specifically to reduce and stabilize phosphate concentrations efficiently and safely.
 
 ---
-Incoming Water Quality (Before use of .ZeroFour)  –  [Eurofins Water Report](FILE_ExPure_SDS_NanoFe3O4_Al2O3.pdf)
+Incoming Water Quality (Before use of .ZeroFour)  – [Eurofins Water Report](FILE_Eurofinsbaselinesamples.pdf)
 
-Ending Water Quality Data (After use of .ZeroFour) – [Eurofins Water Report](FILE_Eurofins end of trial samples.pdf)
+Ending Water Quality Data (After use of .ZeroFour) – [Eurofins Water Report](FILE_Eurofinsendoftrialsamples.pdf)
+
 ---
 ## Results You Can See
 
