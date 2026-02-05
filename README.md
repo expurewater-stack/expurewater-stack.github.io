@@ -1,19 +1,22 @@
 # Next-Generation Phosphate Treatment 
-🔗 **Documentation & Safety**
+🔗 **Product Documentation**
  [Safety Data Sheet (SDS)](FILE_ExPure_SDS_NanoFe3O4_Al2O3.pdf)
 ## For Salt and Freshwater Aquariums
 Maintaining a healthy saltwater aquarium requires precise control over water chemistry.  
 Phosphate levels are critical to this balance, and **ZeroFour** is a cutting-edge solution designed specifically to reduce and stabilize phosphate concentrations efficiently and safely.
 
 ---
+Incoming Water Quality (Before use of .ZeroFour)  – [Eurofins Water Report](FILE_Eurofins baseline samples.pdf)
 
+Ending Water Quality Data (After use of .ZeroFour) – [Eurofins Water Report](FILE_Eurofins end of trial samples.pdf)
+---
 ## Results You Can See
 
-| **Before (0.63 ppm)**  [Eurofins Water Report](FILE_Eurofins baseline samples.pdf) |
+| **Before (0.63 ppm)**   |
 |:----------:|
 | ![Before treatment](beforezerofour.jpg) |
 
-| **After (0.18 ppm)**  [Eurofins Water Report](FILE_Eurofins end of trial samples.pdf) |
+| **After (0.18 ppm)**   |
 |:---------:|
 | ![After treatment](afterzerofour.jpg) |
 
