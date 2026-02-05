@@ -49,15 +49,5 @@ Ideal for both **hobbyists** and **professionals**, ZeroFour helps ensure your s
 
 Choose **ZeroFour** to protect your investment and enjoy a balanced, beautiful saltwater aquarium with minimal effort.
 
----
-
-# 📄 GitHub Pages Test
-
-If you can read this page at a URL like:
-
-http://expurewater-stack.github.io
-
-OR via the custom domain:  
-http://info.expure.org/
 
 ✅ **GitHub Pages is working correctly.**
