@@ -10,8 +10,6 @@ Phosphate levels are critical to this balance, and **ZeroFour** is a cutting-edg
 |:---------:|
 | ![Product Comparison](GRAPH_phosphorus_removal_4096w.png) |
 
-<sub>Comparison of ZeroFour and other commonly-used Phosphate management approaches.</sub>
-
 ---
 Incoming Water Quality (Before use of .ZeroFour)  – [Baseline Eurofins Water Report](FILE_Eurofinsbaselinesamples.pdf)
 
