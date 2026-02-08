@@ -5,7 +5,6 @@
 Maintaining a healthy saltwater aquarium requires precise control over water chemistry.  
 Phosphate levels are critical to this balance, and **ZeroFour** is a cutting-edge solution designed specifically to reduce and stabilize phosphate concentrations efficiently and safely.
 
----
 | **Product Comparison**   |
 |:---------:|
 | ![Product Comparison](GRAPH_phosphorus_removal_4096w.png) |
