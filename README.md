@@ -10,6 +10,10 @@ Phosphate levels are critical to this balance, and **ZeroFour** is a cutting-edg
 | ![Product Comparison](GRAPH_phosphorus_removal_4096w.png) |
 
 ---
+
+Natura non facit saltus
+“Nature does not make leaps” — Carl Linnaeus
+
 Incoming Water Quality (Before use of .ZeroFour)  – [Baseline Eurofins Water Report](FILE_Eurofinsbaselinesamples.pdf)
 
 Ending Water Quality Data (After use of .ZeroFour) – [End of Trial Eurofins Water Report](FILE_Eurofinsendoftrialsamples.pdf)
