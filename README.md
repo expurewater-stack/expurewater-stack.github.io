@@ -9,6 +9,9 @@ Phosphate levels are critical to this balance, and **ZeroFour** is a cutting-edg
 |:---------:|
 | ![Product Comparison](GRAPH_phosphorus_removal_4096w.png) |
 
+Natura non facit saltus
+“Nature does not make leaps” — Carl Linnaeus
+
 ---
 
 Natura non facit saltus
