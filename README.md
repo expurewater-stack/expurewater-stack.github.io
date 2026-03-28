@@ -14,6 +14,7 @@ We are a group of Georgia Tech Researchers trying to migrate our research to pro
 ---
 Natura non facit saltus
 “Nature does not make leaps” — Carl Linnaeus
+
 Incoming Water Quality (Before use of .ZeroFour)  – [Baseline Eurofins Water Report](FILE_Eurofinsbaselinesamples.pdf)
 
 Ending Water Quality Data (After use of .ZeroFour) – [End of Trial Eurofins Water Report](FILE_Eurofinsendoftrialsamples.pdf)
