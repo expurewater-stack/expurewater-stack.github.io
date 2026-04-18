@@ -1,37 +1,37 @@
 # Next-Generation Phosphate Treatment 
 🔗 **Product Documentation**
- [Safety Data Sheet (SDS)](FILE_ExPure_SDS_NanoFe3O4_Al2O3.pdf)
+ [Safety Data Sheet (SDS)](DOCUMENTS/FILE_ExPure_SDS_NanoFe3O4_Al2O3.pdf)
 ## For Salt and Freshwater Aquariums
 Maintaining a healthy saltwater aquarium requires precise control over water chemistry.  
 Phosphate levels are critical to this balance, and **ZeroFour** is a cutting-edge solution designed specifically to reduce and stabilize phosphate concentrations efficiently and safely.
 
 ## Our Journey
-![](IMG_74002.jpeg) 
+![](MEDIA/IMG_74002.jpeg) 
 We are a group of Georgia Tech Researchers trying to migrate our research to provide real world solutions.  Building on a foundation of our work in wastewater treatment.  The research revolved around using magnetic nano-particles to address the challenges surrounding phosphate management.  Recognizing that this was a similar problem for hobbyists we have looked at extending to applications in the aquarium space. As a result we have developed a variant particularly suited to  aquarium environments and the management of phosphates.  We believe it is easier to use and provides a technique to reach and maintain optimum phosphate levels in the aquatic environment. . What you see today is the result of our journey so far leveraging our work to bring a little joy to the world.
 
 | **Product Comparison**   |
 |:---------:|
-| ![Product Comparison](GRAPH_phosphorus_removal_4096w.png) |
+| ![Product Comparison](MEDIA/GRAPH_phosphorus_removal_4096w.png) |
 
 Natura non facit saltus
 “Nature does not make leaps” — Carl Linnaeus
 
 ---
 
-Incoming Water Quality (Before use of .ZeroFour)  – [Baseline Eurofins Water Report](FILE_Eurofinsbaselinesamples.pdf)
+Incoming Water Quality (Before use of .ZeroFour)  – [Baseline Eurofins Water Report](DOCUMENTS/FILE_Eurofinsbaselinesamples.pdf)
 
-Ending Water Quality Data (After use of .ZeroFour) – [End of Trial Eurofins Water Report](FILE_Eurofinsendoftrialsamples.pdf)
+Ending Water Quality Data (After use of .ZeroFour) – [End of Trial Eurofins Water Report](DOCUMENTS/FILE_Eurofinsendoftrialsamples.pdf)
 
 ---
 ## Results You Can See
 
 | **Before (0.63 ppm)**   |
 |:----------:|
-| ![Before treatment](beforezerofour.jpg) |
+| ![Before treatment](MEDIA/beforezerofour.jpg) |
 
 | **After (0.18 ppm)**   |
 |:---------:|
-| ![After treatment](afterzerofour.jpg) |
+| ![After treatment](MEDIA/afterzerofour.jpg) |
 
 
 ---
